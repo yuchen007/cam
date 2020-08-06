@@ -1,0 +1,79 @@
+item {
+  id: 1
+  name: 'socks'
+}
+
+item {
+  id: 2
+  name: 'slipper'
+}
+
+item {
+  id: 3
+  name: 'wire'
+}
+
+item {
+  id: 4
+  name: 'chair_base'
+}
+
+item {
+  id: 5
+  name: 'blanket'
+}
+
+item { 
+  id: 6
+  name: 'shoe'
+}
+
+item { 
+  id: 7
+  name: 'dog'
+}
+
+item { 
+  id: 8
+  name: 'cat'
+}
+
+item { 
+  id: 9
+  name: 'person'
+}
+
+item { 
+  id: 10
+  name: 'no_carpet'
+}
+
+item { 
+  id: 11
+  name: 'no_slipper'
+}
+
+item { 
+  id: 12
+  name: 'no_socks'
+}
+
+item { 
+  id: 13
+  name: 'no_socks2'
+}
+
+item { 
+  id: 14
+  name: 'no_wire'
+}
+
+item { 
+  id: 15
+  name: 'no_wire2'
+}
+
+item { 
+  id: 16
+  name: 'no_wire3'
+}
